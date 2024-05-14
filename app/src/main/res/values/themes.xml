@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AndroidPdfViewer" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">#00FFFFFF</item> <!-- Durum çubuğu (status bar) rengini beyaz yapar -->
+
+    </style>
+
+    <style name="Theme.AndroidPdfViewer" parent="Base.Theme.AndroidPdfViewer" />
+</resources>
