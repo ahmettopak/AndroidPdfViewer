@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         pdfView = findViewById(R.id.pdfView);
 
-        pdfView.fromAsset("userManuel.pdf")
+        pdfView.fromAsset("nat.pdf")
                 .load();
     }
 }
